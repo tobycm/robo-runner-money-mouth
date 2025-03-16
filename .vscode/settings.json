@@ -1,0 +1,7 @@
+{
+  "idf.pythonInstallPath": "/home/toby/.asdf/shims/python",
+  "files.associations": {
+    "chrono": "cpp",
+    "algorithm": "cpp"
+  }
+}

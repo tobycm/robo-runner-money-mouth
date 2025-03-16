@@ -1,0 +1,3 @@
+[submodule "lib/M5Dial"]
+	path = lib/M5Dial
+	url = https://github.com/m5stack/M5Dial
